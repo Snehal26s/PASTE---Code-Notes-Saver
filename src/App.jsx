@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 import Navbar from './Components/Navbar'
 import Home from './Pages/Home'
-import Pastes from './Pages/Pastes'
+import Pastes from './Pages/Paste'
 import ViewPaste from './Pages/ViewPaste'
 import { Toaster } from 'react-hot-toast'
 
